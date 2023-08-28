@@ -1,6 +1,6 @@
 # resultados-tcc
 Esse repositório contém os arquivos com os resultados dos testes realizados. 
-*Os arquivos de compilado de resultados de testes em claro e testes cifrados contêm as tabelas com o cálculo das médias e desvio padrão para cada faixa de carga de trabalho, 
+Os arquivos de compilado de resultados de testes em claro e testes cifrados contêm as tabelas com o cálculo das médias e desvio padrão para cada faixa de carga de trabalho, 
 para cada operação (INSERT, SELECT, UPDATE, DELETE) dos três SGBDs.
 
 Os arquivos teste_<nome do SGBD>.zip contêm os resultados absolutos de cada teste. 
